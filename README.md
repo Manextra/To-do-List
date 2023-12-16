@@ -2,7 +2,7 @@
 # To-do-List
 This is a simple basic project of a normal to-do task website showing all your entered tasks and then if needed,deleting them .Use npm run dev to run it.
 The coding lagnuage used is Reactjs with Nextjs and tailwind.
-Reactjs+Nextjs
+(Reactjs+Nextjs)
 =======
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
